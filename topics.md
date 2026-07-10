@@ -51,6 +51,7 @@
 - [nodejs](#nodejs)
 - [open-source](#open-source)
 - [others](#others)
+- [parsing](#parsing)
 - [privacy](#privacy)
 - [pwa](#pwa)
 - [python](#python)
@@ -283,6 +284,10 @@
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [andrew8088/dotfiles](https://github.com/andrew8088/dotfiles) - My Dotfiles
 
+## parsing 
+
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
+
 ## privacy 
 
 - [ignaciogarcia-dev/walty](https://github.com/ignaciogarcia-dev/walty) - On-chain crypto payment platform for individuals and businesses.
@@ -293,6 +298,7 @@
 
 ## python 
 
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 - [MussabPro/DuoStats](https://github.com/MussabPro/DuoStats) - Duolingo progress visualizer with a daily-updated profile card, weekly chart, and stats explorer. Built with Python, GitHub Actions, and a static web UI.
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 

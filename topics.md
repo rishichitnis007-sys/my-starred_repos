@@ -46,6 +46,7 @@
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
+- [macos](#macos)
 - [malware](#malware)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
@@ -53,6 +54,7 @@
 - [others](#others)
 - [parsing](#parsing)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -114,6 +116,7 @@
 
 ## bash 
 
+- [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
@@ -196,6 +199,7 @@
 
 ## git 
 
+- [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 
 ## github 
@@ -248,6 +252,10 @@
 - [syfr512/SweetrollLM](https://github.com/syfr512/SweetrollLM) - Local-first AI chat client combining SillyTavern-style character cards, LM Studio-style GGUF model management, Ollama/OpenAI-compatible APIs, and an agentic workspace.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 
+## macos 
+
+- [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
+
 ## malware 
 
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
@@ -266,6 +274,7 @@
 
 ## others 
 
+- [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
 - [bhavinsomps/flexi](https://github.com/bhavinsomps/flexi) - A highly customizable Android Rounded Rectangle View. Supports gradient fills, animated gradient borders, corner radius, and soft shadows out-of-the-box.
 - [Raj-glitch-max/kubernetes-llm-incident-response-benchmark](https://github.com/Raj-glitch-max/kubernetes-llm-incident-response-benchmark) - 
 - [Herorif/INARA](https://github.com/Herorif/INARA) - Artificial Intelligence Assistance inspired by JARVIS
@@ -279,7 +288,7 @@
 - [psi-4ward/docker-powerdns](https://github.com/psi-4ward/docker-powerdns) - PowerDNS Docker Image based on Alpine
 - [basecamp/xip-pdns](https://github.com/basecamp/xip-pdns) - PowerDNS pipe backend adapter powering xip.io
 - [pmelson/narc](https://github.com/pmelson/narc) - 
-- [rishichitnis007-sys/dotfiles](https://github.com/rishichitnis007-sys/dotfiles) - My Dotfiles
+- [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles) - My Dotfiles
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [andrew8088/dotfiles](https://github.com/andrew8088/dotfiles) - My Dotfiles
@@ -291,6 +300,10 @@
 ## privacy 
 
 - [ignaciogarcia-dev/walty](https://github.com/ignaciogarcia-dev/walty) - On-chain crypto payment platform for individuals and businesses.
+
+## productivity 
+
+- [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 
 ## pwa 
 
@@ -327,6 +340,8 @@
 
 ## shell 
 
+- [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
+- [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -359,6 +374,9 @@
 
 ## zsh 
 
+- [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
+- [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
+- [Freed-Wu/fzf-tab-source](https://github.com/Freed-Wu/fzf-tab-source) - :gear: a collection of fzf-tab completion sources.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
@@ -369,5 +387,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [rishichitnis007-sys](https://github.com/rishichitnis007-sys) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [rishichitnis007](https://github.com/rishichitnis007) has waived all copyright and related or neighboring rights to this work.
 

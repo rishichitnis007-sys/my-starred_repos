@@ -75,11 +75,16 @@
 
 ## Shell 
 
+- [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
+- [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
+- [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
+- [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
+- [Freed-Wu/fzf-tab-source](https://github.com/Freed-Wu/fzf-tab-source) - :gear: a collection of fzf-tab completion sources.
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 - [endwall2/endware](https://github.com/endwall2/endware) - The Endware Suite
 - [psi-4ward/docker-powerdns](https://github.com/psi-4ward/docker-powerdns) - PowerDNS Docker Image based on Alpine
 - [basecamp/xip-pdns](https://github.com/basecamp/xip-pdns) - PowerDNS pipe backend adapter powering xip.io
-- [rishichitnis007-sys/dotfiles](https://github.com/rishichitnis007-sys/dotfiles) - My Dotfiles
+- [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles) - My Dotfiles
 - [andrew8088/dotfiles](https://github.com/andrew8088/dotfiles) - My Dotfiles
 - [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
@@ -96,5 +101,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [rishichitnis007-sys](https://github.com/rishichitnis007-sys) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [rishichitnis007](https://github.com/rishichitnis007) has waived all copyright and related or neighboring rights to this work.
 

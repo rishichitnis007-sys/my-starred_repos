@@ -59,6 +59,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
+- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [reactjs](#reactjs)
 - [security](#security)
@@ -66,6 +67,7 @@
 - [svelte](#svelte)
 - [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
+- [termux](#termux)
 - [typescript](#typescript)
 - [ui](#ui)
 - [vue](#vue)
@@ -86,6 +88,7 @@
 
 ## android 
 
+- [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [aungyelin/movie-db-kmp](https://github.com/aungyelin/movie-db-kmp) - A cross-platform movie database app built with Kotlin Multiplatform (KMP). Browse popular movies and view detailed information seamlessly across Android and iOS.
 
 ## ansible 
@@ -201,11 +204,13 @@
 
 ## git 
 
+- [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 
 ## github 
 
+- [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [pluralsight/BlackCat](https://github.com/pluralsight/BlackCat) - Centralized reporting on GitHub dependency scanning outputs
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 
@@ -247,6 +252,7 @@
 
 ## linux 
 
+- [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
 
 ## llm 
@@ -256,6 +262,7 @@
 
 ## macos 
 
+- [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
 
 ## malware 
@@ -333,6 +340,10 @@
 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 
+## raspberry-pi 
+
+- [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
+
 ## react 
 
 - [jackson-peg/act-vite](https://github.com/jackson-peg/act-vite) - A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.
@@ -349,6 +360,7 @@
 
 ## shell 
 
+- [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
 - [chris-marsh/pureline](https://github.com/chris-marsh/pureline) - A Pure Bash Powerline PS1 Command Prompt
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
@@ -367,6 +379,10 @@
 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 
+## termux 
+
+- [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
+
 ## typescript 
 
 - [ignaciogarcia-dev/walty](https://github.com/ignaciogarcia-dev/walty) - On-chain crypto payment platform for individuals and businesses.
@@ -383,6 +399,7 @@
 
 ## zsh 
 
+- [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [agkozak/agkozak-zsh-prompt](https://github.com/agkozak/agkozak-zsh-prompt) - A fast, asynchronous Zsh prompt with color ASCII indicators of Git, exit, SSH, virtual environment, and vi mode status. Framework-agnostic and customizable.
 - [Freed-Wu/fzf-tab-source](https://github.com/Freed-Wu/fzf-tab-source) - :gear: a collection of fzf-tab completion sources.

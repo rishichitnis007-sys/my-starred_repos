@@ -10,6 +10,7 @@
 - [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Kotlin](#kotlin)
 - [Markdown](#markdown)
@@ -40,11 +41,17 @@
 
 ## HTML 
 
+- [keval101/trade-tracker](https://github.com/keval101/trade-tracker) - Built a trading tracker app to help people manage their investments. Users can record deposits, withdrawals, and trades. Charts help visualize performance, and an ROI sheet generator calculates goals 
 - [spaship/sidecar](https://github.com/spaship/sidecar) - 
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 
+## Java 
+
+- [apache/netbeans](https://github.com/apache/netbeans) - Apache NetBeans
+
 ## JavaScript 
 
+- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 BOT de WhatsApp com multi-funções e comandos!
 - [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log) - A GitHub Action that automatically updates your README file with the latest activity from your GitHub account. Customize the displayed events, set a limit on the number of events, and ignore specific 
 - [KernelShark/chameleon-ua-switcher](https://github.com/KernelShark/chameleon-ua-switcher) - 
 - [pumpzera/kick-auto-zap](https://github.com/pumpzera/kick-auto-zap) - Tampermonkey userscript that auto-switches between the live Kick channels you follow and tracks your session level/XP.
@@ -61,6 +68,7 @@
 
 ## Others 
 
+- [rishichitnis007/my-starred_repos](https://github.com/rishichitnis007/my-starred_repos) - 😃 Rishi’s Starred Repos
 - [tHeInCreDiBlEpRoGrAmMeR/amazing-stars](https://github.com/tHeInCreDiBlEpRoGrAmMeR/amazing-stars) - ⭐️ Nathaniel's list of Starred Repositories
 - [ArteffCods/How-to-completely-hide-your-Minecraft-server-plugins](https://github.com/ArteffCods/How-to-completely-hide-your-Minecraft-server-plugins) - How to hide full your minecraft plugins
 - [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
@@ -99,6 +107,7 @@
 
 ## Shell 
 
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
@@ -124,6 +133,8 @@
 
 ## TypeScript 
 
+- [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
+- [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [todoforai/edge](https://github.com/todoforai/edge) - Edge agent for TODOforAI — shell, file ops, DOCX/XLSX, with a binary-tool-first focus.
 - [ignaciogarcia-dev/walty](https://github.com/ignaciogarcia-dev/walty) - On-chain crypto payment platform for individuals and businesses.
 - [jackson-peg/act-vite](https://github.com/jackson-peg/act-vite) - A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.

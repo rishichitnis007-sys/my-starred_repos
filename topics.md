@@ -51,6 +51,7 @@
 - [macos](#macos)
 - [malware](#malware)
 - [markdown](#markdown)
+- [minecraft](#minecraft)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
@@ -65,6 +66,7 @@
 - [react](#react)
 - [reactjs](#reactjs)
 - [security](#security)
+- [server](#server)
 - [shell](#shell)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -301,6 +303,10 @@
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
 
+## minecraft 
+
+- [ArteffCods/How-to-completely-hide-your-Minecraft-server-plugins](https://github.com/ArteffCods/How-to-completely-hide-your-Minecraft-server-plugins) - How to hide full your minecraft plugins
+
 ## nextjs 
 
 - [oscar-castaneda-dev/oscar-castaneda-website](https://github.com/oscar-castaneda-dev/oscar-castaneda-website) - Personal website showcasing my work in full-stack development, AI, and software engineering.
@@ -316,6 +322,9 @@
 
 ## others 
 
+- [tHeInCreDiBlEpRoGrAmMeR/amazing-stars](https://github.com/tHeInCreDiBlEpRoGrAmMeR/amazing-stars) - ⭐️ Nathaniel's list of Starred Repositories
+- [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - 
+- [todoforai/edge](https://github.com/todoforai/edge) - Edge agent for TODOforAI — shell, file ops, DOCX/XLSX, with a binary-tool-first focus.
 - [Dartians/Dart-Cheatsheet](https://github.com/Dartians/Dart-Cheatsheet) - 
 - [spaship/sidecar](https://github.com/spaship/sidecar) - 
 - [gautamkrishnar/automation-scripts](https://github.com/gautamkrishnar/automation-scripts) - Some random scripts I had written for automating stuffs
@@ -393,6 +402,10 @@
 
 - [pluralsight/BlackCat](https://github.com/pluralsight/BlackCat) - Centralized reporting on GitHub dependency scanning outputs
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
+
+## server 
+
+- [ArteffCods/How-to-completely-hide-your-Minecraft-server-plugins](https://github.com/ArteffCods/How-to-completely-hide-your-Minecraft-server-plugins) - How to hide full your minecraft plugins
 
 ## shell 
 

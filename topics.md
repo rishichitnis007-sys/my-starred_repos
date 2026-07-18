@@ -77,6 +77,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [sqlite](#sqlite)
 - [svelte](#svelte)
 - [swift](#swift)
 - [tailwindcss](#tailwindcss)
@@ -377,6 +378,8 @@
 
 ## others 
 
+- [fubaduba/vendor-performance-analyst](https://github.com/fubaduba/vendor-performance-analyst) - 
+- [Monier-Ayman/Atm-Simulator](https://github.com/Monier-Ayman/Atm-Simulator) - 
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
 - [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
@@ -507,6 +510,10 @@
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+
+## sqlite 
+
+- [harshdoesdev/rayql](https://github.com/harshdoesdev/rayql) - RayQL is a schema definition and query language for SQLite
 
 ## svelte 
 

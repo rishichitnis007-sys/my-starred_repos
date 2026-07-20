@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -23,10 +22,6 @@
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
-
-## Batchfile 
-
-- [matheussilvagarcia/USB_Drive_File-_Passwords_and_Historic_Grapper](https://github.com/matheussilvagarcia/USB_Drive_File-_Passwords_and_Historic_Grapper) - Outdated REPO: https://github.com/HolmesXL-zz/USB-Drive-File-Passwords-and-Historic-Stealer
 
 ## C 
 

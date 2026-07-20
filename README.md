@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -23,6 +24,10 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 
+## Assembly 
+
+- [rohingosling/tank-vs-uap](https://github.com/rohingosling/tank-vs-uap) - Pixel smooth interpretation of Duane Later's original "Tank vs UFO" for the Commodore VIC-20.
+
 ## C 
 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -33,6 +38,7 @@
 
 ## C++ 
 
+- [TheCherno/Hazel](https://github.com/TheCherno/Hazel) - Hazel Engine
 - [Turtle-PB/imgui_xl](https://github.com/Turtle-PB/imgui_xl) - Dear ImGui XL - Enhanced fork for community contributions, backend improvements, and extended examples. Bloat-free Graphical User interface for C++ with minimal dependencies.
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
 - [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
@@ -57,11 +63,14 @@
 
 ## Java 
 
+- [noel-mugisha/Spring-Auth-Service](https://github.com/noel-mugisha/Spring-Auth-Service) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
 - [Shrikant922/codecrafters-claude-code-java](https://github.com/Shrikant922/codecrafters-claude-code-java) - A from-scratch Java CLI agent with Read/Write/Bash tool-calling and an agentic loop, built via CodeCrafters using the openai-java SDK + OpenRouter (Claude Haiku 4.5).
 - [apache/netbeans](https://github.com/apache/netbeans) - Apache NetBeans
 
 ## JavaScript 
 
+- [vishwateja231/connectfy](https://github.com/vishwateja231/connectfy) - 
+- [rafaelxo/Time-Awards](https://github.com/rafaelxo/Time-Awards) - 
 - [GeanoFeeFoundry/geanos-scene-rotation](https://github.com/GeanoFeeFoundry/geanos-scene-rotation) - A Foundry VTT module to rotate entire scenes (Background, Walls, Lights, etc.) by 90 degrees.
 - [MussabPro/KanaTest](https://github.com/MussabPro/KanaTest) - A fully offline, zero-dependency web app for learning and testing Japanese Hiragana and Katakana.
 - [TalVilozny/Gifted](https://github.com/TalVilozny/Gifted) - Gifted is a web app that helps you find the perfect gift by asking a few simple questions and generating personalized recommendations.
@@ -72,6 +81,7 @@
 
 ## Kotlin 
 
+- [aungyelin/mHealth](https://github.com/aungyelin/mHealth) - mHealth is a demo Android application for accessing personal health data from Health Connect. App is built with Kotlin, Jetpack Compose, Navigation 3 and other modern technologies.
 - [bhavinsomps/flexi](https://github.com/bhavinsomps/flexi) - A highly customizable Android Rounded Rectangle View. Supports gradient fills, animated gradient borders, corner radius, and soft shadows out-of-the-box.
 - [aungyelin/movie-db-kmp](https://github.com/aungyelin/movie-db-kmp) - A cross-platform movie database app built with Kotlin Multiplatform (KMP). Browse popular movies and view detailed information seamlessly across Android and iOS.
 
@@ -82,12 +92,12 @@
 
 ## Others 
 
+- [rishichitnis007/my-starred_repos](https://github.com/rishichitnis007/my-starred_repos) - 😃 Rishi’s Starred Repos
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions) - A collection of Actions that I think are useful
 - [tankdadank/cardian](https://github.com/tankdadank/cardian) - Discord card game bot with button driven UI, ranked play, SVS, and a companion website. Built for fair, replayable gameplay.
-- [rishichitnis007/my-starred_repos](https://github.com/rishichitnis007/my-starred_repos) - 😃 Rishi’s Starred Repos
 - [tHeInCreDiBlEpRoGrAmMeR/amazing-stars](https://github.com/tHeInCreDiBlEpRoGrAmMeR/amazing-stars) - ⭐️ Nathaniel's list of Starred Repositories
 - [ArteffCods/How-to-completely-hide-your-Minecraft-server-plugins](https://github.com/ArteffCods/How-to-completely-hide-your-Minecraft-server-plugins) - How to hide full your minecraft plugins
 - [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
@@ -100,6 +110,9 @@
 
 ## Python 
 
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [pumpzera/pdf-word-replacer](https://github.com/pumpzera/pdf-word-replacer) - Python CLI to replace visible PDF text with font-aware fallback and cleaner word spacing.
+- [Herorif/GLiM](https://github.com/Herorif/GLiM) - Generative Lightweight Interaction Manifest: An RPG-style state-driven dev framework for Claude Code
 - [BlackIQ/dev-playground-blog](https://github.com/BlackIQ/dev-playground-blog) - A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
 - [fubaduba/vendor-performance-analyst](https://github.com/fubaduba/vendor-performance-analyst) - 
 - [Monier-Ayman/Atm-Simulator](https://github.com/Monier-Ayman/Atm-Simulator) - 
@@ -137,6 +150,8 @@
 
 ## Shell 
 
+- [MichaelRogerss/Shred](https://github.com/MichaelRogerss/Shred) - A lightweight, cross-compatible secure file overwrite utility written in shell. Intended for MacOS.
+- [hidessh99/xray-publik](https://github.com/hidessh99/xray-publik) - auto installer Xray
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
 - [0rax/fishline](https://github.com/0rax/fishline) - A powerline prompt framework for the fish-shell built in fish-shell.
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.

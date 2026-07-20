@@ -15,6 +15,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [backend](#backend)
 - [bash](#bash)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
@@ -78,6 +79,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [spring](#spring)
 - [sqlite](#sqlite)
 - [svelte](#svelte)
 - [swift](#swift)
@@ -86,6 +88,7 @@
 - [termux](#termux)
 - [typescript](#typescript)
 - [ui](#ui)
+- [v2ray](#v2ray)
 - [vue](#vue)
 - [workflow](#workflow)
 - [zsh](#zsh)
@@ -126,6 +129,7 @@
 
 ## automation 
 
+- [pumpzera/pdf-word-replacer](https://github.com/pumpzera/pdf-word-replacer) - Python CLI to replace visible PDF text with font-aware fallback and cleaner word spacing.
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [GeanoFeeFoundry/geanos-scene-rotation](https://github.com/GeanoFeeFoundry/geanos-scene-rotation) - A Foundry VTT module to rotate entire scenes (Background, Walls, Lights, etc.) by 90 degrees.
 
@@ -150,6 +154,10 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+
+## backend 
+
+- [noel-mugisha/Spring-Auth-Service](https://github.com/noel-mugisha/Spring-Auth-Service) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
 
 ## bash 
 
@@ -177,6 +185,7 @@
 
 ## cli 
 
+- [pumpzera/pdf-word-replacer](https://github.com/pumpzera/pdf-word-replacer) - Python CLI to replace visible PDF text with font-aware fallback and cleaner word spacing.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -304,6 +313,7 @@
 
 ## java 
 
+- [noel-mugisha/Spring-Auth-Service](https://github.com/noel-mugisha/Spring-Auth-Service) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
 - [apache/netbeans](https://github.com/apache/netbeans) - Apache NetBeans
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
@@ -387,6 +397,16 @@
 
 ## others 
 
+- [StudioCherno/Walnut](https://github.com/StudioCherno/Walnut) - Walnut is a simple application framework for Vulkan and Dear ImGui apps
+- [TheCherno/Hazel](https://github.com/TheCherno/Hazel) - Hazel Engine
+- [rishichitnis007/my-starred_repos](https://github.com/rishichitnis007/my-starred_repos) - 😃 Rishi’s Starred Repos
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [vishwateja231/connectfy](https://github.com/vishwateja231/connectfy) - 
+- [aungyelin/mHealth](https://github.com/aungyelin/mHealth) - mHealth is a demo Android application for accessing personal health data from Health Connect. App is built with Kotlin, Jetpack Compose, Navigation 3 and other modern technologies.
+- [MichaelRogerss/Shred](https://github.com/MichaelRogerss/Shred) - A lightweight, cross-compatible secure file overwrite utility written in shell. Intended for MacOS.
+- [rohingosling/tank-vs-uap](https://github.com/rohingosling/tank-vs-uap) - Pixel smooth interpretation of Duane Later's original "Tank vs UFO" for the Commodore VIC-20.
+- [rafaelxo/Time-Awards](https://github.com/rafaelxo/Time-Awards) - 
+- [Herorif/GLiM](https://github.com/Herorif/GLiM) - Generative Lightweight Interaction Manifest: An RPG-style state-driven dev framework for Claude Code
 - [BlackIQ/dev-playground-blog](https://github.com/BlackIQ/dev-playground-blog) - A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
 - [fubaduba/vendor-performance-analyst](https://github.com/fubaduba/vendor-performance-analyst) - 
 - [Monier-Ayman/Atm-Simulator](https://github.com/Monier-Ayman/Atm-Simulator) - 
@@ -402,7 +422,6 @@
 - [TalVilozny/Gifted](https://github.com/TalVilozny/Gifted) - Gifted is a web app that helps you find the perfect gift by asking a few simple questions and generating personalized recommendations.
 - [ozankenangungor/p2p-dfs-node](https://github.com/ozankenangungor/p2p-dfs-node) - Content addressed libp2p DFS node with RocksDB storage and a local gRPC control plane
 - [Shrikant922/codecrafters-claude-code-java](https://github.com/Shrikant922/codecrafters-claude-code-java) - A from-scratch Java CLI agent with Read/Write/Bash tool-calling and an agentic loop, built via CodeCrafters using the openai-java SDK + OpenRouter (Claude Haiku 4.5).
-- [rishichitnis007/my-starred_repos](https://github.com/rishichitnis007/my-starred_repos) - 😃 Rishi’s Starred Repos
 - [keval101/trade-tracker](https://github.com/keval101/trade-tracker) - Built a trading tracker app to help people manage their investments. Users can record deposits, withdrawals, and trades. Charts help visualize performance, and an ROI sheet generator calculates goals 
 - [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 BOT de WhatsApp com multi-funções e comandos!
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
@@ -459,6 +478,7 @@
 
 ## python 
 
+- [pumpzera/pdf-word-replacer](https://github.com/pumpzera/pdf-word-replacer) - Python CLI to replace visible PDF text with font-aware fallback and cleaner word spacing.
 - [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
@@ -493,6 +513,7 @@
 
 ## security 
 
+- [noel-mugisha/Spring-Auth-Service](https://github.com/noel-mugisha/Spring-Auth-Service) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
 - [pluralsight/BlackCat](https://github.com/pluralsight/BlackCat) - Centralized reporting on GitHub dependency scanning outputs
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 
@@ -519,6 +540,10 @@
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+
+## spring 
+
+- [noel-mugisha/Spring-Auth-Service](https://github.com/noel-mugisha/Spring-Auth-Service) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
 
 ## sqlite 
 
@@ -559,6 +584,10 @@
 
 - [codeweb-dev/spark-ui](https://github.com/codeweb-dev/spark-ui) - A collection of beautifully crafted, accessible UI components and a flexible design system. Designed for modern web applications, easy customization, and fast development. Open source and developer-fr
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
+## v2ray 
+
+- [hidessh99/xray-publik](https://github.com/hidessh99/xray-publik) - auto installer Xray
 
 ## vue 
 

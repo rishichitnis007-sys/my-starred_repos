@@ -38,6 +38,7 @@
 
 ## C++ 
 
+- [StudioCherno/Walnut](https://github.com/StudioCherno/Walnut) - Walnut is a simple application framework for Vulkan and Dear ImGui apps
 - [TheCherno/Hazel](https://github.com/TheCherno/Hazel) - Hazel Engine
 - [Turtle-PB/imgui_xl](https://github.com/Turtle-PB/imgui_xl) - Dear ImGui XL - Enhanced fork for community contributions, backend improvements, and extended examples. Bloat-free Graphical User interface for C++ with minimal dependencies.
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
@@ -110,6 +111,7 @@
 
 ## Python 
 
+- [5enox/chatgpt-creator](https://github.com/5enox/chatgpt-creator) - Automated ChatGPT account signup using Outlook email stock with IMAP OTP retrieval.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [pumpzera/pdf-word-replacer](https://github.com/pumpzera/pdf-word-replacer) - Python CLI to replace visible PDF text with font-aware fallback and cleaner word spacing.
 - [Herorif/GLiM](https://github.com/Herorif/GLiM) - Generative Lightweight Interaction Manifest: An RPG-style state-driven dev framework for Claude Code
@@ -175,6 +177,7 @@
 
 ## Swift 
 
+- [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
 
 ## TypeScript 

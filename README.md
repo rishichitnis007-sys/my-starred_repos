@@ -99,6 +99,7 @@
 
 ## Python 
 
+- [BlackIQ/dev-playground-blog](https://github.com/BlackIQ/dev-playground-blog) - A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
 - [fubaduba/vendor-performance-analyst](https://github.com/fubaduba/vendor-performance-analyst) - 
 - [Monier-Ayman/Atm-Simulator](https://github.com/Monier-Ayman/Atm-Simulator) - 
 - [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.

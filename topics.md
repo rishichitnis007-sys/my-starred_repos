@@ -98,6 +98,7 @@
 - [ui](#ui)
 - [v2ray](#v2ray)
 - [vue](#vue)
+- [windows](#windows)
 - [workflow](#workflow)
 - [zsh](#zsh)
 
@@ -177,6 +178,7 @@
 
 ## c 
 
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [rohingosling/data-probe](https://github.com/rohingosling/data-probe) - DOS HEX editor.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
@@ -380,6 +382,7 @@
 
 ## linux 
 
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
 
@@ -390,6 +393,7 @@
 
 ## macos 
 
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [aymandakirgh/ghnotch](https://github.com/aymandakirgh/ghnotch) - Free open-source macOS notch utility with AI command bar. Media controls, calendar, file shelf, battery HUD — all in your notch. MIT license.
 - [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
@@ -433,6 +437,7 @@
 
 ## opengl 
 
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [Turtle-PB/imgui_xl](https://github.com/Turtle-PB/imgui_xl) - Dear ImGui XL - Enhanced fork for community contributions, backend improvements, and extended examples. Bloat-free Graphical User interface for C++ with minimal dependencies.
 
 ## others 
@@ -657,6 +662,10 @@
 ## vue 
 
 - [jackson-peg/act-vite](https://github.com/jackson-peg/act-vite) - A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.
+
+## windows 
+
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 
 ## workflow 
 

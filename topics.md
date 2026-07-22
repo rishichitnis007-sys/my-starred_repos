@@ -177,6 +177,7 @@
 
 ## c 
 
+- [rohingosling/data-probe](https://github.com/rohingosling/data-probe) - DOS HEX editor.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 ## c-plus-plus 
@@ -213,6 +214,7 @@
 
 ## cpp 
 
+- [rohingosling/data-probe](https://github.com/rohingosling/data-probe) - DOS HEX editor.
 - [Turtle-PB/imgui_xl](https://github.com/Turtle-PB/imgui_xl) - Dear ImGui XL - Enhanced fork for community contributions, backend improvements, and extended examples. Bloat-free Graphical User interface for C++ with minimal dependencies.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
@@ -436,7 +438,6 @@
 ## others 
 
 - [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Local AI Chrome extension that semantically blocks distracting content in real time.
-- [rohingosling/data-probe](https://github.com/rohingosling/data-probe) - DOS HEX editor.
 - [rafaelxo/AEDS](https://github.com/rafaelxo/AEDS) - 
 - [SIMARSINGHRAYAT/REPOSWIPE](https://github.com/SIMARSINGHRAYAT/REPOSWIPE) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub
 - [hernan0930/Super-attention-for-exemplar-based-image-colorization](https://github.com/hernan0930/Super-attention-for-exemplar-based-image-colorization) - 

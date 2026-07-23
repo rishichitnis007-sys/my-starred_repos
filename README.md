@@ -31,6 +31,7 @@
 
 ## C 
 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui) - 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -79,6 +80,7 @@
 
 ## JavaScript 
 
+- [fastify/fastify-static](https://github.com/fastify/fastify-static) - Plugin for serving static files as fast as possible
 - [Gecko51/feedex](https://github.com/Gecko51/feedex) - Chrome extension for LinkedIn part of the the Gecko Mind package.
 - [vishwateja231/connectfy](https://github.com/vishwateja231/connectfy) - 
 - [rafaelxo/Time-Awards](https://github.com/rafaelxo/Time-Awards) - 
@@ -125,6 +127,8 @@
 
 ## Python 
 
+- [denysdovhan/ha-aerial-danger](https://github.com/denysdovhan/ha-aerial-danger) - 💥 Aerial dangers monitoring (due to war in Ukraine) integration for Home Assistant.
+- [BradenM/micropy-cli](https://github.com/BradenM/micropy-cli) - Micropython Project Management Tool with VSCode support, Linting, Intellisense, Dependency Management, and more!
 - [hernan0930/Diffusart-CVPRW](https://github.com/hernan0930/Diffusart-CVPRW) - Implementation of Diffusart from CVPR 2023
 - [rohingosling/hex-grid-tessellator](https://github.com/rohingosling/hex-grid-tessellator) - A CLI tool that generates hexagonal grid tessellation images.
 - [hernan0930/Super-attention-for-exemplar-based-image-colorization](https://github.com/hernan0930/Super-attention-for-exemplar-based-image-colorization) - 
@@ -169,6 +173,7 @@
 
 ## Shell 
 
+- [dracula/zsh](https://github.com/dracula/zsh) - 🧛🏻‍♂️ Dark theme for ZSH
 - [MichaelRogerss/Shred](https://github.com/MichaelRogerss/Shred) - A lightweight, cross-compatible secure file overwrite utility written in shell. Intended for MacOS.
 - [hidessh99/xray-publik](https://github.com/hidessh99/xray-publik) - auto installer Xray
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
